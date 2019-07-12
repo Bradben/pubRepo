@@ -1,1 +1,1 @@
-Editing in sb-articles branch
+Initiated in the master branch.
