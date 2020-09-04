@@ -1,2 +1,2 @@
-# privRepo
-Private test repo
+# pubRepo
+Public repo for testing various stuff
