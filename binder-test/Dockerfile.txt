@@ -1,8 +1,8 @@
-# This uses the latest Docker image built from the samples repository,
-# defined by the Dockerfile in Build/images/samples.
-FROM mcr.microsoft.com/quantum/iqsharp-base:0.12.20082513
+# Container registry for iqsharp
+mcr.microsoft.com/quantum/iqsharp-base:0.12.20082513
 
 # Mark that this Dockerfile is used with the samples repository.
+# Not sure if needed
 # ENV IQSHARP_HOSTING_ENV=SAMPLES_HOSTED
 
 # Make sure the contents of our repo are in ${HOME}.
